@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Travonect</string>
+    <string name="facebook_app_id">753544234989288</string>
+    <string name="fb_login_protocol_scheme">fb753544234989288</string>
+
+</resources>
